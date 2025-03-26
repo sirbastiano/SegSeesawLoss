@@ -62,18 +62,7 @@ criterion = BinarySeesawLoss(p=0.8, q=2.0)
 loss = criterion(predictions, targets)
 ```
 
-## Loss Formula
 
-The Binary Seesaw Loss scales the log-likelihood loss by a dynamic weight:
-
-\[
-\mathcal{L} = - s_y \cdot \log(p_y)
-\]
-
-where:
-- \( p_y \): predicted probability for the ground truth class
-- \( s_y \): seesaw factor determined by class confidence and sample frequency
-- \( p, q \): hyperparameters controlling modulation strength
 
 ## Example
 
