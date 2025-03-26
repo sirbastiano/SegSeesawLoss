@@ -1,8 +1,4 @@
-
-# 
 # Binary Seesaw Loss
-
-
 
 ![GitHub stars](https://img.shields.io/github/stars/sirbastiano/SegSeesawLoss.svg)
 ![GitHub forks](https://img.shields.io/github/forks/sirbastiano/SegSeesawLoss.svg)
@@ -26,6 +22,9 @@ A modular and lightweight **PyTorch** implementation of Binary Seesaw Loss, adap
 
 > **Disclaimer**:  The code is under development. (Developed by Eva Gmelich Meijling and Roberto Del Prete).
 
+# 
+### Powered by
+![Seesaw Loss Illustration](./src/logo.png)
 
 ## Table of Contents
 - [Overview](#overview)
@@ -35,6 +34,7 @@ A modular and lightweight **PyTorch** implementation of Binary Seesaw Loss, adap
 - [Example](#example)
 - [Citations](#citations)
 - [License](#license)
+
 
 
 ## Overview
