@@ -1,5 +1,6 @@
 # Binary Seesaw Loss
 
+
 ![GitHub stars](https://img.shields.io/github/stars/sirbastiano/SegSeesawLoss.svg)
 ![GitHub forks](https://img.shields.io/github/forks/sirbastiano/SegSeesawLoss.svg)
 ![GitHub issues](https://img.shields.io/github/issues/sirbastiano/SegSeesawLoss.svg)
@@ -18,13 +19,14 @@
 A modular and lightweight **PyTorch** implementation of Binary Seesaw Loss, adapted from the original Seesaw Loss introduced by [Wang et al., CVPR 2021](https://arxiv.org/pdf/2008.10032). This version targets **binary semantic segmentation** tasks, such as vessel extraction or anomaly detection, where foreground-background imbalance is a critical challenge.
 
 
+
 ![Seesaw Loss Illustration](./src/img.png)
 
-> **Disclaimer**:  The code is under development. (Developed by Eva Gmelich Meijling and Roberto Del Prete).
+> **Disclaimer**:  The code is under development. (Developed by **Eva Gmelich Meijling** and **Roberto Del Prete**).
 
-# 
-### Powered by
-![Seesaw Loss Illustration](./src/logo.png)
+
+##### - Powered by
+<img src="./src/logo.png" alt="Seesaw Loss Illustration" width="170">
 
 ## Table of Contents
 - [Overview](#overview)
